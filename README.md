@@ -66,7 +66,7 @@ ansible-playbook -i inventory/hosts.yml playbook.yml
 ```
 
 ## Screenshot
-![screenshot](Screenshot 2026-02-17.png)
+![screenshot](Screenshot.png)
 
 
 ## cleanup
